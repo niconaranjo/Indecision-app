@@ -1,2 +1,2 @@
 # Indecision-app
-A React application based on a Course
+A React application based on a React Course

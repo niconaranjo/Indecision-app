@@ -1,0 +1,23 @@
+{
+  "name": "indecision-app",
+  "version": "1.0.0",
+  "description": "A React application based on a React Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niconaranjo/Indecision-app.git"
+  },
+  "author": "Nicolas Naranjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niconaranjo/Indecision-app/issues"
+  },
+  "homepage": "https://github.com/niconaranjo/Indecision-app#readme",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
